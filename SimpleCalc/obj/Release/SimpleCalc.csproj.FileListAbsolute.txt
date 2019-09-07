@@ -1,0 +1,9 @@
+C:\Users\aiueo\source\repos\SimpleCalc\SimpleCalc\bin\Release\SimpleCalc.exe.config
+C:\Users\aiueo\source\repos\SimpleCalc\SimpleCalc\bin\Release\SimpleCalc.exe
+C:\Users\aiueo\source\repos\SimpleCalc\SimpleCalc\bin\Release\SimpleCalc.pdb
+C:\Users\aiueo\source\repos\SimpleCalc\SimpleCalc\obj\Release\SimpleCalc.Form1.resources
+C:\Users\aiueo\source\repos\SimpleCalc\SimpleCalc\obj\Release\SimpleCalc.Properties.Resources.resources
+C:\Users\aiueo\source\repos\SimpleCalc\SimpleCalc\obj\Release\SimpleCalc.csproj.GenerateResource.cache
+C:\Users\aiueo\source\repos\SimpleCalc\SimpleCalc\obj\Release\SimpleCalc.csproj.CoreCompileInputs.cache
+C:\Users\aiueo\source\repos\SimpleCalc\SimpleCalc\obj\Release\SimpleCalc.exe
+C:\Users\aiueo\source\repos\SimpleCalc\SimpleCalc\obj\Release\SimpleCalc.pdb

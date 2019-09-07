@@ -1,0 +1,10 @@
+C:\Users\aiueo\source\repos\SimpleCalc\SimpleCalc\bin\Debug\SimpleCalc.exe.config
+C:\Users\aiueo\source\repos\SimpleCalc\SimpleCalc\bin\Debug\SimpleCalc.exe
+C:\Users\aiueo\source\repos\SimpleCalc\SimpleCalc\bin\Debug\SimpleCalc.pdb
+C:\Users\aiueo\source\repos\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.csprojAssemblyReference.cache
+C:\Users\aiueo\source\repos\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.Form1.resources
+C:\Users\aiueo\source\repos\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.Properties.Resources.resources
+C:\Users\aiueo\source\repos\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.csproj.GenerateResource.cache
+C:\Users\aiueo\source\repos\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.csproj.CoreCompileInputs.cache
+C:\Users\aiueo\source\repos\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.exe
+C:\Users\aiueo\source\repos\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.pdb
