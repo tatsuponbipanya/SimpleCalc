@@ -1,7 +1,5 @@
 # SimpleCalc
-====
-
-Overview
+SimpleCalk is very simple Calculator.
 
 ## Description
 
