@@ -18,8 +18,8 @@ SimpleCalk can addition.
 
 ## Licence
 
-tatsuponbipanya
+[tatsuponbipanya](https://github.com/tatsuponbipanya)
 
 ## Author
 
-[tatsuponbipanya](https://github.com/tcnksm)
+[tatsuponbipanya](https://github.com/tatsuponbipanya)
