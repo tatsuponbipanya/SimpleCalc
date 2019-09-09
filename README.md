@@ -2,6 +2,7 @@
 SimpleCalk is very simple Calculator.
 
 ## Description
+SimpleCalk can addition.
 
 ## Demo
 
