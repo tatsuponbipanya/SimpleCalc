@@ -6,6 +6,7 @@ SimpleCalk can addition.
 
 ## Demo
 <img src="https://github.com/tatsuponbipanya/SimpleCalc/blob/master/simplecalc.png" alt="simplecalc" title="サンプル">
+
 ## VS. 
 
 ## Requirement
