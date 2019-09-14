@@ -14,7 +14,7 @@ SimpleCalk can addition.
 ## Usage
 
 ## Install
-
+SimpleCalk → bin → Release → SimpleCalk.exe
 ## Contribution
 
 ## Licence
